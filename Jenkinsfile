@@ -30,5 +30,6 @@ stage ('Notification'){
 		      body: "Jenkins Pipeline Job for Maven Build got completed !!!",
 		      to: "tungidwarsimran@gmail.com"
 		    )
+	
 }	
 }
